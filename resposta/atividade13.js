@@ -14,6 +14,7 @@ function dia(num) {
       break;
     default:
       return "Invalid";
+      break;
   }
 }
 
